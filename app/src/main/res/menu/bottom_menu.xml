@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/navProduct"
+        android:icon="@drawable/ic_products"
+        android:title="@string/product" />
+<!--    <item-->
+<!--        android:id="@+id/navLocation"-->
+<!--        android:icon="@drawable/ic_location"-->
+<!--        android:title="@string/location" />-->
+    <item
+        android:id="@+id/navNews"
+        android:icon="@drawable/ic_news"
+        android:title="@string/news" />
+    <item
+        android:id="@+id/navAccount"
+        android:icon="@drawable/ic_account"
+        android:title="@string/account" />
+</menu>
